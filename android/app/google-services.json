@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654247198631",
+    "firebase_url": "https://gymforcy.firebaseio.com",
+    "project_id": "gymforcy",
+    "storage_bucket": "gymforcy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654247198631:android:cfac932376f08025114082",
+        "android_client_info": {
+          "package_name": "gym.gymforcy.gymforce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654247198631-q1hh2g8hlh8otvvkdrrh034adm7h1v6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gym.gymforcy.gymforce",
+            "certificate_hash": "a516f2312be481ca3b51e921824d866afafa2409"
+          }
+        },
+        {
+          "client_id": "654247198631-e2vopsuiv1reu5cpuuprph634h35uh92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-kbeOvivfZS7Uqahayzu__04Cn6rw20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654247198631-e2vopsuiv1reu5cpuuprph634h35uh92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
