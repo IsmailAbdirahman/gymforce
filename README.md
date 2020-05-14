@@ -1,16 +1,3 @@
 # gymforce
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gym Force helps you (its users) to go to the gym daily, Tracks your gym location, The day you go to the gym marks a gym icon that indicates you went to the gym on that date, and to get more motivation you can add your friends and see their progress.
